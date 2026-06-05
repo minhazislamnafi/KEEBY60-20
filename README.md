@@ -6,3 +6,27 @@ A moduler 60% mechanical hot-swapble keyboard. With 20% numpad attachment will f
 ![QMK](https://img.shields.io/badge/Firmwire-QMK-red)
 ![pcb](https://img.shields.io/badge/KEEBY-v1.1-blue)
 ![Layout](https://img.shields.io/badge/layout-60+20-cyan)
+
+
+
+# Specification
+
+## KEEBY60
+* firmware: QMK
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+## KEEBY20
+* firmware: QMK
+* 
+* 
+* 
+* 
+* 
+* 
