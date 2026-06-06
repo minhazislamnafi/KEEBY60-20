@@ -21,7 +21,8 @@ A moduler 60% mechanical hot-swapble keyboard. With 20% numpad attachment, it wi
 * USB hub IC: Fe1.1s SSOP-28
 * USB IN: 2 type-C (One for USB+Power & another for only power)
 * USB OUT: 1 6p magnetic connector & 2 type-c usb 2.0
-        (2 USB 2.0 is only accessible when only 60% is used)
+        
+  (2 USB 2.0 is only accessible when only 60% is used)
 * Total keys: 63 ANSI layout
 * Knob: EC11E rotary encoder (with push switch)
 * Diaplay: SSD1306 0.91" I2C Oled 
