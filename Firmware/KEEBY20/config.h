@@ -10,8 +10,8 @@
 #define OLED_DRIVER_ENABLE
 
 #define ENCODER_RESOLUTION 4
-#define ENCODER_A_PINS {GP01}
-#define ENCODER_B_PINS {GP03}
+#define ENCODER_A_PINS {GP1}
+#define ENCODER_B_PINS {GP3}
 
 // Tapping time term || mod-tap keys (ms)
 #define TAPPING_TERM 200
