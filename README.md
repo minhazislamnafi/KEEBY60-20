@@ -48,3 +48,4 @@ A moduler 60% mechanical hot-swapble keyboard. With 20% numpad attachment, it wi
 * Dimensions: pcb - 81* 116 mm (L * W)                                                                         
               case - 95* 130*45 mm (L * W * H)
 
+:H:fbh
