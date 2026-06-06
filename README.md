@@ -53,5 +53,6 @@ A moduler 60% mechanical hot-swapble keyboard. With 20% numpad attachment, it wi
 
 it's a freaking 80% moduler usb2.0 hub mecanical hot-swappable programmable ARGB led DIY 3D printed Keyboard with dual knob dual oled display. wants to know more? it can be use a single 60% ANSI with 2 USB 2.0 HUB or a single 17 keys Numpad macropad or or or as said, 6pin magnetic connected ISO 80% Keyboard. 
 
-TL;DR : The KEEBY60+20 is all rounder very versatile keyboard that's runs on open-source QMK firmwire.
+TL;DR - The KEEBY60+20 is all rounder very versatile keyboard that's runs on open-source QMK firmwire.
+
 
