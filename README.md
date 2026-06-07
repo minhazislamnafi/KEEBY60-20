@@ -58,3 +58,4 @@ it's a freaking 80% moduler usb2.0 hub mecanical hot-swappable programmable ARGB
 TL;DR - The KEEBY60+20 is all rounder very versatile keyboard that's runs on open-source QMK firmwire.
 
 
+## Onshape Full assembly [Link](https://cad.onshape.com/documents/68f2d0f77eb15a6c900279e4/w/64c05305f9ae419810eaa342/e/0ee3c387e4a094a987680ffc?renderMode=0&uiState=6a25ddbbf901e47d9e05b20d)
