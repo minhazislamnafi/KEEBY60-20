@@ -19,7 +19,7 @@ A moduler 60% mechanical hot-swapble keyboard. With 20% numpad attachment, it wi
 * Socket: Hot-swapable Kailh Socket
 * Switches: Cherry MX blue
 * ARGB led: SK6812 mini-E
-* MCU: Raspberry pi RP2040 QFN-56
+* MCU: Raspberry Pi RP2040 QFN-56
 * USB hub IC: Fe1.1s SSOP-28
 * USB IN: 2 type-C (One for USB+Power & another for only power)
 * USB OUT: 1 6p magnetic connector & 2 type-c usb 2.0
@@ -28,7 +28,7 @@ A moduler 60% mechanical hot-swapble keyboard. With 20% numpad attachment, it wi
 * Total keys: 63 ANSI layout
 * Knob: EC11E rotary encoder (with push switch)
 * Diaplay: SSD1306 0.91" I2C Oled 
-* PCB: 2 layer (all copmonents bottom mounted)
+* PCB: 2-layer (all components bottom mounted)
 * Dimensions: pcb - 291* 116 mm (L * W)                                                                        
               case - 304* 130*45 mm  (L * W * H)
 
@@ -39,23 +39,23 @@ A moduler 60% mechanical hot-swapble keyboard. With 20% numpad attachment, it wi
 * Socket: Hot-swapable Kailh Socket
 * Switches: Cherry MX blue
 * ARGB led: SK6812 mini-E
-* MCU: Raspberry pi RP2040 QFN-56
+* MCU: Raspberry Pi RP2040 QFN-56
 * USB IN: 6p magnetic connector & 1 type-C
 
      (Both the 6p conn and type-C connector's data pin are connected)
 * Total keys: 17 ANSI Numpad
 * Knob: EC11E rotary encoder (with push switch)
 * Diaplay: SSD1306 0.91" I2C Oled 
-* PCB: 2 layer (all copmonents bottom mounted)
+* PCB: 2-layer (all components bottom mounted)
 * Dimensions: pcb - 81* 116 mm (L * W)                                                                         
               case - 95* 130*45 mm (L * W * H)
 
 
 # Ask Why KEEBY60+20?
 
-it's a freaking 80% moduler usb2.0 hub mecanical hot-swappable programmable ARGB led DIY 3D printed Keyboard with dual knob dual oled display. wants to know more? it can be use a single 60% ANSI with 2 USB 2.0 HUB or a single 17 keys Numpad macropad or or or as said, 6pin magnetic connected ISO 80% Keyboard. 
+It's a freaking 80% moduler usb2.0 hub, mechanical hot-swappable programmable ARGB LED DIY 3D printed Keyboard with dual knob dual OLED display. wants to know more? It can be use a single 60% ANSI with 2 USB 2.0 HUB or a single 17 keys Numpad macropad or or or as said, a 6-pin magnetic connected ISO 80% Keyboard. 
 
-TL;DR - The KEEBY60+20 is all rounder very versatile keyboard that's runs on open-source QMK firmwire.
+TL;DR - The KEEBY60+20 is an all-around very versatile keyboard that runs on open-source QMK firmware.
 
 
 ## Onshape Full assembly [Link](https://cad.onshape.com/documents/68f2d0f77eb15a6c900279e4/w/64c05305f9ae419810eaa342/e/0ee3c387e4a094a987680ffc?renderMode=0&uiState=6a25de67f901e47d9e05b22d)
