@@ -7,7 +7,8 @@ A moduler 60% mechanical hot-swapble keyboard. With 20% numpad attachment, it wi
 ![pcb](https://img.shields.io/badge/KEEBY-v1.1-blue)
 ![Layout](https://img.shields.io/badge/layout-60+20-cyan)
 
-<img width="4000" height="5657" alt="GITHUB REPO" src="https://github.com/user-attachments/assets/f049f4f7-f3b1-41b9-8158-7fa0b6aa874d" />
+<img width="4000" height="5657" alt="GITHUB REPO" src="https://github.com/user-attachments/assets/e5039e64-511a-4fa4-b768-2237ad78c495" />
+
 
 
 # Specification
