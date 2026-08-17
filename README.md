@@ -59,3 +59,5 @@ TL;DR - The KEEBY60+20 is an all-around very versatile keyboard that runs on ope
 
 
 ## Onshape Full assembly [Link](https://cad.onshape.com/documents/68f2d0f77eb15a6c900279e4/w/64c05305f9ae419810eaa342/e/0ee3c387e4a094a987680ffc?renderMode=0&uiState=6a25de67f901e47d9e05b22d)
+
+## PCB Render
