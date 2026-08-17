@@ -66,3 +66,13 @@ TL;DR - The KEEBY60+20 is an all-around very versatile keyboard that runs on ope
 
 ## PCB Render
 My PC can't handle KiCad 10.0 now. so no render ;(
+But I have some screenshots.
+
+<img width="1365" height="767" alt="Screenshot 2026-05-31 113653" src="https://github.com/user-attachments/assets/70f7497f-7f0f-447b-9c99-b88d4864ef00" />
+
+<img width="1127" height="557" alt="Screenshot 2026-06-07 144513" src="https://github.com/user-attachments/assets/9659e2f6-7f87-4cea-b852-927234ed2846" />
+
+<img width="1365" height="767" alt="Screenshot 2026-05-28 215839" src="https://github.com/user-attachments/assets/f2f5a09d-62ec-4e5b-ac02-2846301a35a1" />
+
+<img width="1365" height="767" alt="Screenshot 2026-05-28 235259" src="https://github.com/user-attachments/assets/165acae5-7079-48ba-9444-78f4cc7fef05" />
+
