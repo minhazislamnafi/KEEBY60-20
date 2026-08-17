@@ -76,3 +76,23 @@ But I have some screenshots.
 
 <img width="1365" height="767" alt="Screenshot 2026-05-28 235259" src="https://github.com/user-attachments/assets/165acae5-7079-48ba-9444-78f4cc7fef05" />
 
+
+## FOLLOW THESE STEPS FOR BUILDING ##
+
+**1. Spend some money $$ to buy the parts mentioned in [BOM](https://github.com/minhazislamnafi/KEEBY60-20/tree/main/PCB/production).**(2 separate BOM)
+
+**2. Order the PCB for KEEBY60 and KEEBY20 using this [GERBER file](https://github.com/minhazislamnafi/KEEBY60-20/blob/main/PCB/production/keeby60/KEEBY_60_v1.1.zip) and [GERBER file](https://github.com/minhazislamnafi/KEEBY60-20/blob/main/PCB/production/keeby20/KEEBY_20_v1.1.zip).**
+
+**3. Solder the SMD components of the PCB by hand ;) Or just order the PCBs with PCBA services, btw it will cost a lot.**
+
+**4. Check with multimeter: Is the MCU getting 3.3v or not? If not diagnose by yourself :)**
+
+**5. Place all the key switches.**
+
+**6. Flash QMK firmware using USB connection ( I will add every step in details, once I have built IRL:)**
+
+**7. 3D print the Case .**
+
+**8. Assemble your KEEBY60 and 20.**
+
+**5. Test and enjoy more RGB= more FPS keyboard ( I will add every step in details, once I have built IRL:).**
