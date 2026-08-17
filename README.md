@@ -91,7 +91,7 @@ But I have some screenshots.
 
 **6. Flash QMK firmware using USB connection ( I will add every step in details, once I have built IRL:)**
 
-**7. 3D print the Case .**
+**7. 3D print the [Case](https://github.com/minhazislamnafi/KEEBY60-20/tree/main/CAD/CASE%203D%20file) .**
 
 **8. Assemble your KEEBY60 and 20.**
 
