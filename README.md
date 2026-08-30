@@ -53,7 +53,7 @@ A moduler 60% mechanical hot-swapble keyboard. With 20% numpad attachment, it wi
 
 # Ask Why KEEBY60+20?
 
-It's a freaking 80% moduler usb2.0 hub, mechanical hot-swappable programmable ARGB LED DIY 3D printed Keyboard with dual knob dual OLED display. wants to know more? It can be use a single 60% ANSI with 2 USB 2.0 HUB or a single 17 keys Numpad macropad or or or as said, a 6-pin magnetic connected ISO 80% Keyboard. 
+It's a freaking 80% moduler usb2.0 hub, mechanical hot-swappable programmable ARGB LED DIY 3D printed Keyboard with dual knob dual OLED display. wants to know more? It can be used as a single 60% ANSI with 2 USB 2.0 HUB or, a single 17-key numpad macropad or or or as said, a 6-pin magnetic-connected ISO 80% Keyboard. 
 
 TL;DR - The KEEBY60+20 is an all-around very versatile keyboard that runs on open-source QMK firmware.
 
@@ -85,7 +85,7 @@ But I have some screenshots.
 
 **3. Solder the SMD components of the PCB by hand ;) Or just order the PCBs with PCBA services, btw it will cost a lot.**
 
-**4. Check with multimeter: Is the MCU getting 3.3v or not? If not diagnose by yourself :)**
+**4. Check with a multimeter: Is the MCU getting 3.3v or not? If not, diagnose by yourself :)**
 
 **5. Place all the key switches.**
 
