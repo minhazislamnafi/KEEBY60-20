@@ -66,9 +66,8 @@ TL;DR - The KEEBY60+20 is an all-around very versatile keyboard that runs on ope
 
 ## Schematics
 <img width="1754" height="1241" alt="Keeby60v2_page-0001" src="https://github.com/user-attachments/assets/639fdee5-3618-488b-b4b0-3ae86dcd5dbf" />
-,<img width="1754" height="1241" alt="Keeby60v2_page-0001" src="https://github.com/user-attachments/assets/943ebd27-a5a8-43c6-aa26-712715c995b6" />
-,
 
+<img width="1754" height="1241" alt="Keeby60v2_page-0003" src="https://github.com/user-attachments/assets/954feecc-995b-4080-8b12-59df9c0354b8" />
 
 
 
